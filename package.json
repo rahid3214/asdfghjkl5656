@@ -1,5 +1,5 @@
 {
-  "name": "rsssspp",
+  "name": "shaikhrahid",
   "version": "1.0.0",
   "description": "node js",
   "main": "index.js",
@@ -11,11 +11,11 @@
   "devDependencies": {
     "live-server": "^1.2.2"
   },
-  "repository": {       
+  "repository": {
     "type": "git",
     "url": "dffd"
   },
-  "keywords": [     
+  "keywords": [
     "p"
   ]
 }
